@@ -1,4 +1,5 @@
 The Maven, by Tim Berglund
+Copyright(C) 2012
 
 
 Then, methought, the air grew denser, perfumed by an unseen censer [ECU: dull eyes getting wild]
